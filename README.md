@@ -11,4 +11,4 @@ As the name implies, *Click 'n Extend* helps devout toad fans to take out one se
 To use it on your mogical website, just include this script.
 
     <script src="https://moscript.github.io/click-n-extend/click-n-extend.js"></script>
-Optionally, you can download and include the script.
+Optionally, you can download and host it yourself.
